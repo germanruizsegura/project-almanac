@@ -1,0 +1,2 @@
+# project-almanac
+Bad cards
